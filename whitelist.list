@@ -1,0 +1,11 @@
+# User reported false positives for revolveruk30's regex filters
+# https://github.com/revolveruk30
+
+# This file is not currently referenced during install.
+# If you experience issues with any of the following domains,
+# you will need the add them manually to your Pi-hole installation.
+
+anti-ad.net
+www.ad.nl
+iij.ad.jp
+www.iij.ad.jp
