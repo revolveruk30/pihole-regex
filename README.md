@@ -7,5 +7,5 @@ curl -sSl https://raw.githubusercontent.com/revolveruk30/pihole-regex/master/ins
 
 ### Remove from Pi-Hole
 ```
-curl -sSl https://raw.githubusercontent.com/revolveruk30/pihole-regex/master/install.py | sudo python3
+curl -sSl https://raw.githubusercontent.com/revolveruk30/pihole-regex/master/uninstall.py | sudo python3
 ```
