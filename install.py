@@ -88,7 +88,7 @@ else:
     print('[i] Running in physical installation mode ')
 
 # Set paths
-path_pihole = docker_mnt_src if docker_mnt_src else '/etc/pihole'
+path_pihole = docker_mnt_src if docker_mnt_src else r'/etc/pihole'
 path_legacy_regex = os.path.join(path_pihole, 'regex.list')
 path_legacy_revolveruk30_regex = os.path.join(path_pihole, 'revolveruk30-regex.list')
 path_pihole_db = os.path.join(path_pihole, 'gravity.db')
